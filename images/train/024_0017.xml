@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>024_0017.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\024_0017.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>53</ymin>
+			<xmax>624</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

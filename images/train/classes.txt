@@ -1,0 +1,14 @@
+kangaroo
+human
+hen
+cat
+chicken
+cheetah
+cast
+owl
+penguin
+starfish
+fish
+zebra
+squirrel
+cow

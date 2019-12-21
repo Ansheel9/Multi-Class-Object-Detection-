@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>152_0094.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\152_0094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>617</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>25</ymin>
+			<xmax>446</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

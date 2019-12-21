@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>129_0027.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\129_0027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>27</ymin>
+			<xmax>182</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

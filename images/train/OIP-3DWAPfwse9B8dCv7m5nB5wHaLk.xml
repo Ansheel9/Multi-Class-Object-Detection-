@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>OIP-3DWAPfwse9B8dCv7m5nB5wHaLk.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\OIP-3DWAPfwse9B8dCv7m5nB5wHaLk.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>26</ymin>
+			<xmax>189</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

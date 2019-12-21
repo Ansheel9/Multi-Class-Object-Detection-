@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>OIP-4_dabJAGJvr1m93jOb9nLgHaFj.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\OIP-4_dabJAGJvr1m93jOb9nLgHaFj.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>9</ymin>
+			<xmax>257</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

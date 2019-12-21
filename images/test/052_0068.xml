@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>052_0068.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\052_0068.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>254</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crab</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>35</ymin>
+			<xmax>299</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

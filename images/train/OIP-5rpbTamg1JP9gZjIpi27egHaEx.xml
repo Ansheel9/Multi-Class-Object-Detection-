@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>OIP-5rpbTamg1JP9gZjIpi27egHaEx.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\OIP-5rpbTamg1JP9gZjIpi27egHaEx.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>9</ymin>
+			<xmax>296</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

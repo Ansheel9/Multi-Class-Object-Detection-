@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>028_0014.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\028_0014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>535</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camel</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>94</ymin>
+			<xmax>491</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

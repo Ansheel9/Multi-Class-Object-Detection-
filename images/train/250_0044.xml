@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>250_0044.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\250_0044.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>11</ymin>
+			<xmax>278</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

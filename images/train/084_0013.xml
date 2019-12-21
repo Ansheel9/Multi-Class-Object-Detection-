@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>084_0013.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\084_0013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>giraffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>70</ymin>
+			<xmax>256</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

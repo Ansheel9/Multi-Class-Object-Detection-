@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>152_0097.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\152_0097.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>113</ymin>
+			<xmax>287</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

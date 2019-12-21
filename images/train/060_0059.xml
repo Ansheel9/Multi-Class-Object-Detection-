@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>060_0059.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\060_0059.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>526</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>143</ymin>
+			<xmax>639</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

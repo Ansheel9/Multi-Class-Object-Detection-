@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>052_0013.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\052_0013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crab</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>239</ymin>
+			<xmax>192</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>
